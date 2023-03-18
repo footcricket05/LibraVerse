@@ -1,6 +1,6 @@
 # Library Management System
 
-## Project Description:
+## Project Description
 
 Usually, large companies and organizations have a vast army of human resources working under them. The Library Management System is an application for assisting a librarian in managing a book library in a university. The system would provide a basic set of features to add/update members, add/update books, and manage check in specifications for the systems based on the client’s statement of need. Its Development includes the establishment and maintenance of back-end database and front-end application development aspects. For the former require the establishment of data consistency and integrity of the strong data security and good libraries. As for the latter requires the application fully functional, easy to use and so on. This project aims to build a Library Management System which mainly focuses on basic operations in a library like adding new books, and updating new information, searching books and members, and returning books. We can enter the record of new books and retrieve the details of books available in the library. We can issue the books to the students and maintain their records and can also check how many books are issued and stock available in the library. In this project we can maintain the late fine of students who return the issued books after the due date.
 
