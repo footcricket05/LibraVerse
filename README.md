@@ -6,7 +6,8 @@ Usually, large companies and organizations have a vast army of human resources w
 
 ## Business Case
 
-The Project:
+### The Project:
+
 • The Library Management System aims to streamline the administration system in a Library.
 
 • It provides an interface which provides easy and concise access to the management of a library.
@@ -15,7 +16,8 @@ The Project:
 
 • This project can free up manual labor costs which in turn can be used to implement additional value-added services.
 
-The History:
+### The History:
+
 • In managing a library and its records, excess of physical records which must be stored which takes up space and time.
 
 • The greater amount of funds has been put to the labour in managing the library.
@@ -24,7 +26,8 @@ The History:
 
 • Automating the management can help streamline the process safely and securely.
 
-Limitations:
+### Limitations:
+
 • High end encryptions not used so it can be hacked.
 
 • Multi-Platform usage may be limited.
@@ -33,7 +36,8 @@ Limitations:
 
 • User level restrictions are very lenient.
 
-Approach:
+### Approach:
+
 • The management system can ensure efficient access to information which is imperative for businesses.
 
 • It can facilitate continued professional development and self-lead training.
@@ -44,8 +48,10 @@ Approach:
 
 • Ability to add on additional services if needed.
 
-Benefits:
+### Benefits:
+
 • The borrower details are stored & maintained.
+
 • It is easy to do library audits any time as records are maintained by the highly efficient software which is easy to access.
 
 • It is simple to maximize performance of the libraries with the dynamic reports, graphs, and charts to review or track progress for better decision-making.
