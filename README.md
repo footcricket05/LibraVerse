@@ -16,16 +16,18 @@ This project aims to build a Library Management System which mainly focuses on b
 
 
 ## Usage
-
-To use this Library Management System, please follow the steps below:
+To use this PDF-based Library Management System, please follow the steps below:
 
 1. Clone this repository to your local machine.
 
-2. Open the project directory in your preferred IDE.
+2. Open the project directory and locate the "library_management.pdf" file.
 
-3. Run the library_management.py file.
+3. Open the "library_management.pdf" file in your preferred PDF viewer.
 
-4. Follow the on-screen instructions to manage the library operations.
+4. Follow the instructions provided in the PDF to manage the library operations.
+
+
+Note: This Library Management System is implemented using a PDF file and does not require any additional software or dependencies.
 
 
 ## License
