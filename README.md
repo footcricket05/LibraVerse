@@ -29,4 +29,5 @@ To use this Library Management System, please follow the steps below:
 
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more information.
+This project is licensed under the MIT License. See the [License](https://github.com/footcricket05/Library-Management-System-SEPM/blob/main/LICENSE.md)
+ file for more information.
